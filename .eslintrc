@@ -1,0 +1,14 @@
+{
+  "extends": "airbnb",
+  "plugins": [
+    "googleappsscript"
+  ],
+  "env": {
+    "googleappsscript/googleappsscript": true
+  },
+  "rules": {
+    "import/prefer-default-export": [
+      0
+    ]
+  }
+}
