@@ -1,0 +1,1 @@
+# gas-es6-sample
